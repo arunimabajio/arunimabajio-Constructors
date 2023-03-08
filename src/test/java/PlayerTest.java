@@ -1,6 +1,6 @@
 
 import org.junit.Test;
-
+import java.util.Scanner;
 /**
  * See 'player' class for challenge instructions.
  * This is a harder problem.
